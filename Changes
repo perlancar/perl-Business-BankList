@@ -1,15 +1,15 @@
-0.012    2017-07-04 (PERLANCAR)
+0.012    2017-07-04  Released-By: PERLANCAR
 
         - No functional changes.
 
         - [build] Rebuild to use Makefile.PL instead of Build.PL.
 
 
-0.011   2013-04-25 (SHARYANTO)
+0.011   2013-04-25  Released-By: SHARYANTO
 
         - No functional changes. Fix typo.
 
 
-0.01    2012-07-06 (SHARYANTO)
+0.01    2012-07-06  Released-By: SHARYANTO
 
         - First version, still empty.
